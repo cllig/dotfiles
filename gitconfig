@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = claire.lignon@gmail.com
+	name = Claire Lignon
